@@ -18,7 +18,7 @@ PRs welcome.
 <br/>
 
 #### Legend
-[<img src="/devarchy-logo.png" width="22" align="center">](http://devarchy.com/) devarchy link
+[<img src="/devarchy-logo.png" width="22" align="center">](http://devarchy.com/) devarchy link (more lists are going to be added to devarchy soon)
 
 <br/>
 
