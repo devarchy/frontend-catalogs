@@ -2,11 +2,22 @@
 
 *Catalogs of libraries for frontend development*
 
- - [`React` Components & Libraries](http://devarchy.com/react-components)
- - [`Redux` Libraries](http://devarchy.com/redux)
- - [`Angular` Components & Libraries](http://devarchy.com/angular-components)
- - [`Vue.js` Components & Libraries](http://devarchy.com/vue)
- - [`Frontend` Components & Libraries](http://devarchy.com/frontend-libraries)
+ - [`React` Components & Libraries](https://github.com/brillout/awesome-react-components)
+   [<img src="/devarchy-logo.png" width="22" align="center" alt="React components">](http://devarchy.com/react-components)
+
+ - [`Redux` Libraries](https://github.com/brillout/awesome-redux)
+   [<img src="/devarchy-logo.png" width="22" align="center" alt="Redux libraries">](http://devarchy.com/redux)
+
+ - [`Angular` Components & Libraries](https://github.com/brillout/awesome-react-components)
+   [<img src="/devarchy-logo.png" width="22" align="center" alt="Angular components">](http://devarchy.com/angular-components)
+
+ - [`Vue.js` Components & Libraries](https://github.com/vuejs/awesome-vue#components--libraries)
+   [<img src="/devarchy-logo.png" width="22" align="center" alt="Vue components">](http://devarchy.com/vue)
+
+ - [`Frontend` Components & Libraries](https://github.com/brillout/awesome-frontend-libraries)
+   [<img src="/devarchy-logo.png" width="22" align="center" alt="Frontend components & libraries">](http://devarchy.com/frontend-libraries)
+
+[<img src="/devarchy-logo.png" width="22" align="center">](http://devarchy.com/): devarchy link
 
 <br/>
 
