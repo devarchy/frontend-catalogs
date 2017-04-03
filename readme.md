@@ -17,5 +17,5 @@
  - JavaScript Micro Utilities — *with significantly more libraries than current lists*
  - Elm Packages — *with better categorization than the official list*
  - Web Components — *components created by the community*
- - jQuery
+ - jQuery Plugins
 
