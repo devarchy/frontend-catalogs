@@ -5,8 +5,8 @@
  - [`React` Components & Libraries](http://devarchy.com/react-components)
  - [`Redux` Libraries](http://devarchy.com/redux)
  - [`Angular` Components & Libraries](http://devarchy.com/angular-components)
- - [`Vue.js` Libraries & Plugins](http://devarchy.com/vue)
- - [`Frontend` Libraries](http://devarchy.com/frontend-libraries)
+ - [`Vue.js` Components & Libraries](http://devarchy.com/vue)
+ - [`Frontend` Components & Libraries](http://devarchy.com/frontend-libraries)
 
 <br/>
 
